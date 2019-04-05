@@ -1,4 +1,11 @@
+body{
+  background-color: #F5F7FA;
+}
 header{
+  text-align: center;
   font-size: 40px;
+  font-style: italic;
+  color: #556d6cd1;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
   background-color:#d5d3ff;
 }
