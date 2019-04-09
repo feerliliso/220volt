@@ -22,6 +22,12 @@ header{
   font-family: Verdana, Arial, Helvetica, sans-serif;
   background-color:#1abc9c;
 }
+footer{
+  text-align: center;
+  background-color:#1abc9c;
+  color: ##2c3e50;
+  padding-bottom: 30px;
+}
 .introduce{
 
   font-size: 20px;
@@ -42,4 +48,5 @@ header{
 .Text{
   text-align: center;
   margin-left:18%;
+  margin-bottom: 90%;
 }
