@@ -46,11 +46,18 @@ a{
   text-decoration:none;
 }
 @media (max-width:768px) {
+  .home-text-align{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    text-align:left;
+  }
   .home-font{
-    font-size:1.5em;
+    font-size:1.8em;
     font-style: normal;
     font-family:monospace;
     color:#95a5a6;
   }
-  
+
 }
