@@ -14,6 +14,7 @@ a{
 a:hover{
    -webkit-animation: a_a 2s infinite;
    animation: a_a 2s infinite;
+   animation-direction: alternate;
 }
 @keyframes a_a {
   from{opacity: 1}
