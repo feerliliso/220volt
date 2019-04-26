@@ -6,6 +6,19 @@ body{
 header{
   flex: 0.4;
 }
+a{
+  color: #8a8a8a;
+  margin-right: 1em;
+  text-decoration:none;
+}
+a:hover{
+   -webkit-animation: a_a 2s infinite;
+   animation: a_a 2s infinite;
+}
+@keyframes a_a {
+  from{opacity: 1}
+  to{opacity: 0.2;text-shadow: 1px 1px 2px black,0 0 0.2em grey;}
+}
 .Sit{
   display: flex;
   flex-direction: column;
@@ -38,11 +51,7 @@ header{
   font-family:monospace;
   color:#95a5a6;
 }
-a{
-  color: #8a8a8a;
-  margin-right: 1em;
-  text-decoration:none;
-}
+
 
 .email{
   margin-top:10px;margin-left: 600px;color:#7f8c8d;font-family:sans-serif;
