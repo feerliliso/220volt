@@ -27,14 +27,12 @@ header{
   position:fixed;
   top: 43px;
 }
-.home-text-align{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
+
 .home-font{
+
+  margin: 100px;
+  margin-left: 200px;
+  white-space:normal;
   font-size:28px;
   font-style: normal;
   font-family:monospace;
@@ -45,16 +43,19 @@ a{
   margin-right: 1em;
   text-decoration:none;
 }
+
+.email{
+  margin-top:10px;margin-left: 600px;color:#7f8c8d;font-family:sans-serif;
+}
 @media (max-width:768px) {
-  .home-text-align{
-    display: flex;
-    flex-direction: column;
-    justify-content:center;
-    align-items: center;
-    text-align:left;
+  .email{
+    margin-top:10px;margin-left: 120px;color:#7f8c8d;font-family:sans-serif;
   }
-  .home-font{
-    font-size:1.8em;
+    .home-font{
+    text-align:left;
+    margin-top: 60px;
+    margin-left: 65px;
+    font-size:1.5em;
     font-style: normal;
     font-family:monospace;
     color:#95a5a6;
