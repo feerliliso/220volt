@@ -1,14 +1,24 @@
 body{
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  min-height:100vh;
 }
+
 header{
-  flex: 0.4;
+  flex:0.5;
+}
+
+main{
+  flex:12;
+}
+footer{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  flex: 2
 }
 a{
   color: #8a8a8a;
-  margin-right: 1em;
   text-decoration:none;
 }
 a:hover{
@@ -20,32 +30,24 @@ a:hover{
   from{opacity: 1}
   to{opacity: 0.2;text-shadow: 1px 1px 2px black,0 0 0.2em grey;}
 }
-.Sit{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-   align-items: center;
-  flex: 5;
-}
+
 .nav-bar{
   font-family: fantasy;
   font-size: 29px;
-  position: fixed;
-  z-index: 4;
-  width: 100%;
+  position:relative;
 }
-.Text{
-  background: #ecf0f1;
-  width: 100vw;
-  height: 90vh;
-  position:fixed;
-  top: 43px;
+.nav-bar>*{
+  margin-left: 0.5em;
 }
+.main-text-palce{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ecf0f1;
+  }
+.main-align-text{
 
-.home-font{
-
-  margin: 100px;
-  margin-left: 200px;
+  flex-basis: 450px;
   white-space:normal;
   font-size:28px;
   font-style: normal;
@@ -53,22 +55,12 @@ a:hover{
   color:#95a5a6;
 }
 
-
 .email{
-  margin-top:10px;margin-left: 600px;color:#7f8c8d;font-family:sans-serif;
+  margin-top:10px;color:#7f8c8d;font-family:sans-serif;
 }
-@media (max-width:768px) {
+/* @media (max-width:768px) {
   .email{
     margin-top:10px;margin-left: 120px;color:#7f8c8d;font-family:sans-serif;
   }
-    .home-font{
-    text-align:left;
-    margin-top: 60px;
-    margin-left: 65px;
-    font-size:1.5em;
-    font-style: normal;
-    font-family:monospace;
-    color:#95a5a6;
-  }
 
-}
+} */
