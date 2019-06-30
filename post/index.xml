@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>feerliliso</title>
-    <link>https://feerliliso.github.io/</link>
-    <description>Recent content on feerliliso</description>
+    <title>Posts on feerliliso</title>
+    <link>https://feerliliso.github.io/post/</link>
+    <description>Recent content in Posts on feerliliso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Jun 2019 16:10:50 +0800</lastBuildDate>
     
-	<atom:link href="https://feerliliso.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://feerliliso.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,27 +30,6 @@
 标本收到后实验室在真正开始检测前还要对一些标本进行预处理，在预处理这个过程中，依然会出现一些问题。这些问题也影响着检测质量和效率，我们在这里试着来讨论一下。
 常用的标本预处理的方法和种类
 离心 1.离心是生化和免疫检测常用的标本预处理方式，目的得到血清。由于设备加样的原因，必须要取出纤维蛋白避免堵针的情况发生。需要3500转10分钟 2.血凝检测时也是需要离心，但目的是得到乏血小板血浆。需要4000转15分钟 静置 静置是对血液标本在离心前的常规处理方式，一般室温下10min左右，待血块凝集后就可以离心了。这样，纤维蛋白会缠结在隔离胶下的血块内而不会漂浮在血清里。 加热 加热的情况一般发生在精液不液化的现象发生时，37摄氏度下超过30分钟若还没有液化可以考虑加热的方法。 增菌 在处理微生物标本时有些类型的标本含菌量较少需要在培养前做增菌处理如脑脊液标本，在接种分离培养基前需要在肉汤培养基内增菌增菌18~20小时（35~37摄氏度） 标本检测</description>
-    </item>
-    
-    <item>
-      <title> 空气培养考</title>
-      <link>https://feerliliso.github.io/about/</link>
-      <pubDate>Sat, 29 Jun 2019 16:10:37 +0800</pubDate>
-      
-      <guid>https://feerliliso.github.io/about/</guid>
-      <description>最近，我所在的医院把已经停了很久的手术室重新启用。护士累的跟狗一样，这也是一样的常态，往往是累的累死闲的闲死，越能干的累死的越早。好了直接进入正题吧。在手术室启用之前必须经过消毒，对消毒效果的评价就是空气培养和物表培养。护士那里一阵穷忙，最后归结到我这里就是空培养和物表培养。我是最终那个评判的人。 手术室的空气培养有两种方法：
-浮游法 沉降法 两个方法在护士采集样本阶段没有任何差异，只是在计算和 报告方式上有区别。所以，使用哪种方法以及使用哪种报告形式是由实验室决定的。
-在这个过程中，我发现很多人包括做了很长时间的护士甚至是实验室人员对整个试验的原理和目的都是一头雾水，就是老师怎样教她就怎样做，也不管做的对不对，是不是有新的标准。我写一下，一是记录自己在处理这个问题时所学到知识，二是对各位同道（不仅是医学检验，护士，也包括其他需要做空气培养的人们）提供一个简洁明确的对这个问题的解释。
-1.1 浮游法 浮游法顾名思义就是检测悬浮在空气中的颗粒所携带的细菌含量，是对空气洁净度的一种测量方式。实际操作中浮游法可以使用撞击法采集样本，但医院很少使用撞击法，所以撞击法采集不在本文讨论范围之内。
- 奥氏公式计算空气沉降菌数.苏联学者奥梅梁斯基认为 ,在 100$cm^2$ 培养基表面 ,平板沉降法 5min沉降下的菌数相当于 10Ｌ空气所含的菌数。但用平板沉降法测定时 ,平板暴露空气中的时间为5~30min,故在奥氏公式中引入ｔ/5比例项;所使用的平皿面积并非设定的 100$cm^2$,由此引出Ａ/100比例项 ;将原定的 10Ｌ空气所含菌数换算成 1$m^3$ 空气所含菌数 ,故又引入1000/100比例项,因此 ,平板沉降法计算 1$m^3$ 空气所含菌数 奥氏公式计算空气沉降菌数.苏联学者奥梅梁斯基认为 ,在 100𝑐𝑚2 培养基表面 ,平板沉降法 5min沉降下的菌数相当于 10Ｌ空气所含的菌数。但用平板沉降法测定时 ,平板暴露空气中的时间为5~30min,故在奥氏公式中引入ｔ/5比例项;所使用的平皿面积并非设定的 100𝑐𝑚2,由此引出Ａ/100比例项 ;将原定的 10Ｌ空气所含菌数换算成 1𝑚3 空气所含菌数 ,故又引入1000/100比例项,因此 ,平板沉降法计算 1𝑚3 空气所含菌数
- 浮游法计算公式：
-50000N/A*T
-C:空气中的含菌量（𝑐𝑓𝑢/𝑚3） N:培养皿上的平均菌落数 A:培养皿的面积（𝑐𝑚2） t:暴露时间（𝑚𝑖𝑛）
-这个公式适用于没有使用采样器直接用平皿的采样方法。
-简易的计算方式:
-当90mm的碟子且暴露时间为30min时，结果是N*26
-当90mm的碟子且暴露时间为5min时，结果是N*157
-def fyf(): print(&amp;quot;请输入平均菌落数:&amp;quot;,end=&amp;quot;&amp;quot;) N=float(input()) print(&amp;quot;请输入平皿数量:&amp;quot;,end=&amp;quot;&amp;quot;) n=int(input()) print(&amp;quot;请输入平皿直径:&amp;quot;,end=&amp;quot;&amp;quot;) R=int(input()) print(&amp;quot;平皿暴露时间:&amp;quot;,end=&amp;quot;&amp;quot;) t=int(input()) A=pow(R/2,2)*3.14*n C=50000*N/(A*t) print(&amp;quot;结果是:&amp;quot;,&#39;%.2f&#39;%C,&amp;quot;cfu/m^3&amp;quot;) fyf()  请输入平均菌落数: 以上是我用python写的一个计算程序，输入相应的值就可以得出结果。</description>
     </item>
     
   </channel>
